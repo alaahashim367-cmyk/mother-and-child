@@ -1,0 +1,5 @@
+body { font-family: Arial; background: #fff5f8; color: #333; text-align: center; margin: 0; }
+header { background: #ff8fab; padding: 20px; color: white; }
+nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+main { padding: 20px; }
+footer { background: #333; color: white; padding: 15px; margin-top: 30px; }
